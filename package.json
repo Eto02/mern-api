@@ -1,0 +1,18 @@
+{
+  "name": "mern-api",
+  "version": "1.0.0",
+  "description": "Api Node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Latihan",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
